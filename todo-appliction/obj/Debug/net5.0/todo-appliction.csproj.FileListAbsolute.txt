@@ -1,0 +1,16 @@
+C:\Users\feyza\Desktop\PatikaWork\todo-appliction\obj\Debug\net5.0\todo-appliction.csproj.AssemblyReference.cache
+C:\Users\feyza\Desktop\PatikaWork\todo-appliction\obj\Debug\net5.0\todo-appliction.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\feyza\Desktop\PatikaWork\todo-appliction\obj\Debug\net5.0\todo-appliction.AssemblyInfoInputs.cache
+C:\Users\feyza\Desktop\PatikaWork\todo-appliction\obj\Debug\net5.0\todo-appliction.AssemblyInfo.cs
+C:\Users\feyza\Desktop\PatikaWork\todo-appliction\obj\Debug\net5.0\todo-appliction.csproj.CoreCompileInputs.cache
+C:\Users\feyza\Desktop\PatikaWork\todo-appliction\bin\Debug\net5.0\todo-appliction.exe
+C:\Users\feyza\Desktop\PatikaWork\todo-appliction\bin\Debug\net5.0\todo-appliction.deps.json
+C:\Users\feyza\Desktop\PatikaWork\todo-appliction\bin\Debug\net5.0\todo-appliction.runtimeconfig.json
+C:\Users\feyza\Desktop\PatikaWork\todo-appliction\bin\Debug\net5.0\todo-appliction.runtimeconfig.dev.json
+C:\Users\feyza\Desktop\PatikaWork\todo-appliction\bin\Debug\net5.0\todo-appliction.dll
+C:\Users\feyza\Desktop\PatikaWork\todo-appliction\bin\Debug\net5.0\ref\todo-appliction.dll
+C:\Users\feyza\Desktop\PatikaWork\todo-appliction\bin\Debug\net5.0\todo-appliction.pdb
+C:\Users\feyza\Desktop\PatikaWork\todo-appliction\obj\Debug\net5.0\todo-appliction.dll
+C:\Users\feyza\Desktop\PatikaWork\todo-appliction\obj\Debug\net5.0\ref\todo-appliction.dll
+C:\Users\feyza\Desktop\PatikaWork\todo-appliction\obj\Debug\net5.0\todo-appliction.pdb
+C:\Users\feyza\Desktop\PatikaWork\todo-appliction\obj\Debug\net5.0\todo-appliction.genruntimeconfig.cache
