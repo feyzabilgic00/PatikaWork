@@ -1,0 +1,16 @@
+C:\Users\feyza\Desktop\PatikaWork\phone-number-application\bin\Debug\net5.0\phone-number-application.exe
+C:\Users\feyza\Desktop\PatikaWork\phone-number-application\bin\Debug\net5.0\phone-number-application.deps.json
+C:\Users\feyza\Desktop\PatikaWork\phone-number-application\bin\Debug\net5.0\phone-number-application.runtimeconfig.json
+C:\Users\feyza\Desktop\PatikaWork\phone-number-application\bin\Debug\net5.0\phone-number-application.runtimeconfig.dev.json
+C:\Users\feyza\Desktop\PatikaWork\phone-number-application\bin\Debug\net5.0\phone-number-application.dll
+C:\Users\feyza\Desktop\PatikaWork\phone-number-application\bin\Debug\net5.0\ref\phone-number-application.dll
+C:\Users\feyza\Desktop\PatikaWork\phone-number-application\bin\Debug\net5.0\phone-number-application.pdb
+C:\Users\feyza\Desktop\PatikaWork\phone-number-application\obj\Debug\net5.0\phone-number-application.csproj.AssemblyReference.cache
+C:\Users\feyza\Desktop\PatikaWork\phone-number-application\obj\Debug\net5.0\phone-number-application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\feyza\Desktop\PatikaWork\phone-number-application\obj\Debug\net5.0\phone-number-application.AssemblyInfoInputs.cache
+C:\Users\feyza\Desktop\PatikaWork\phone-number-application\obj\Debug\net5.0\phone-number-application.AssemblyInfo.cs
+C:\Users\feyza\Desktop\PatikaWork\phone-number-application\obj\Debug\net5.0\phone-number-application.csproj.CoreCompileInputs.cache
+C:\Users\feyza\Desktop\PatikaWork\phone-number-application\obj\Debug\net5.0\phone-number-application.dll
+C:\Users\feyza\Desktop\PatikaWork\phone-number-application\obj\Debug\net5.0\ref\phone-number-application.dll
+C:\Users\feyza\Desktop\PatikaWork\phone-number-application\obj\Debug\net5.0\phone-number-application.pdb
+C:\Users\feyza\Desktop\PatikaWork\phone-number-application\obj\Debug\net5.0\phone-number-application.genruntimeconfig.cache
