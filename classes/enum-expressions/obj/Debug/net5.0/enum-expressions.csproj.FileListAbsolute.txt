@@ -1,0 +1,16 @@
+C:\Users\feyza\Desktop\PatikaWork\classes\enum-expressions\bin\Debug\net5.0\enum-expressions.exe
+C:\Users\feyza\Desktop\PatikaWork\classes\enum-expressions\bin\Debug\net5.0\enum-expressions.deps.json
+C:\Users\feyza\Desktop\PatikaWork\classes\enum-expressions\bin\Debug\net5.0\enum-expressions.runtimeconfig.json
+C:\Users\feyza\Desktop\PatikaWork\classes\enum-expressions\bin\Debug\net5.0\enum-expressions.runtimeconfig.dev.json
+C:\Users\feyza\Desktop\PatikaWork\classes\enum-expressions\bin\Debug\net5.0\enum-expressions.dll
+C:\Users\feyza\Desktop\PatikaWork\classes\enum-expressions\bin\Debug\net5.0\ref\enum-expressions.dll
+C:\Users\feyza\Desktop\PatikaWork\classes\enum-expressions\bin\Debug\net5.0\enum-expressions.pdb
+C:\Users\feyza\Desktop\PatikaWork\classes\enum-expressions\obj\Debug\net5.0\enum-expressions.csproj.AssemblyReference.cache
+C:\Users\feyza\Desktop\PatikaWork\classes\enum-expressions\obj\Debug\net5.0\enum-expressions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\feyza\Desktop\PatikaWork\classes\enum-expressions\obj\Debug\net5.0\enum-expressions.AssemblyInfoInputs.cache
+C:\Users\feyza\Desktop\PatikaWork\classes\enum-expressions\obj\Debug\net5.0\enum-expressions.AssemblyInfo.cs
+C:\Users\feyza\Desktop\PatikaWork\classes\enum-expressions\obj\Debug\net5.0\enum-expressions.csproj.CoreCompileInputs.cache
+C:\Users\feyza\Desktop\PatikaWork\classes\enum-expressions\obj\Debug\net5.0\enum-expressions.dll
+C:\Users\feyza\Desktop\PatikaWork\classes\enum-expressions\obj\Debug\net5.0\ref\enum-expressions.dll
+C:\Users\feyza\Desktop\PatikaWork\classes\enum-expressions\obj\Debug\net5.0\enum-expressions.pdb
+C:\Users\feyza\Desktop\PatikaWork\classes\enum-expressions\obj\Debug\net5.0\enum-expressions.genruntimeconfig.cache

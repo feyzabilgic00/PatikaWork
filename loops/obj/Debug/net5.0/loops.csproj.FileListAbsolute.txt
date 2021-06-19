@@ -1,0 +1,16 @@
+C:\Users\feyza\Desktop\PatikaWork\loops\bin\Debug\net5.0\loops.exe
+C:\Users\feyza\Desktop\PatikaWork\loops\bin\Debug\net5.0\loops.deps.json
+C:\Users\feyza\Desktop\PatikaWork\loops\bin\Debug\net5.0\loops.runtimeconfig.json
+C:\Users\feyza\Desktop\PatikaWork\loops\bin\Debug\net5.0\loops.runtimeconfig.dev.json
+C:\Users\feyza\Desktop\PatikaWork\loops\bin\Debug\net5.0\loops.dll
+C:\Users\feyza\Desktop\PatikaWork\loops\bin\Debug\net5.0\ref\loops.dll
+C:\Users\feyza\Desktop\PatikaWork\loops\bin\Debug\net5.0\loops.pdb
+C:\Users\feyza\Desktop\PatikaWork\loops\obj\Debug\net5.0\loops.csprojAssemblyReference.cache
+C:\Users\feyza\Desktop\PatikaWork\loops\obj\Debug\net5.0\loops.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\feyza\Desktop\PatikaWork\loops\obj\Debug\net5.0\loops.AssemblyInfoInputs.cache
+C:\Users\feyza\Desktop\PatikaWork\loops\obj\Debug\net5.0\loops.AssemblyInfo.cs
+C:\Users\feyza\Desktop\PatikaWork\loops\obj\Debug\net5.0\loops.csproj.CoreCompileInputs.cache
+C:\Users\feyza\Desktop\PatikaWork\loops\obj\Debug\net5.0\loops.dll
+C:\Users\feyza\Desktop\PatikaWork\loops\obj\Debug\net5.0\ref\loops.dll
+C:\Users\feyza\Desktop\PatikaWork\loops\obj\Debug\net5.0\loops.pdb
+C:\Users\feyza\Desktop\PatikaWork\loops\obj\Debug\net5.0\loops.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\feyza\Desktop\PatikaWork\classes\static-class\bin\Debug\net5.0\static-class.exe
+C:\Users\feyza\Desktop\PatikaWork\classes\static-class\bin\Debug\net5.0\static-class.deps.json
+C:\Users\feyza\Desktop\PatikaWork\classes\static-class\bin\Debug\net5.0\static-class.runtimeconfig.json
+C:\Users\feyza\Desktop\PatikaWork\classes\static-class\bin\Debug\net5.0\static-class.runtimeconfig.dev.json
+C:\Users\feyza\Desktop\PatikaWork\classes\static-class\bin\Debug\net5.0\static-class.dll
+C:\Users\feyza\Desktop\PatikaWork\classes\static-class\bin\Debug\net5.0\ref\static-class.dll
+C:\Users\feyza\Desktop\PatikaWork\classes\static-class\bin\Debug\net5.0\static-class.pdb
+C:\Users\feyza\Desktop\PatikaWork\classes\static-class\obj\Debug\net5.0\static-class.csproj.AssemblyReference.cache
+C:\Users\feyza\Desktop\PatikaWork\classes\static-class\obj\Debug\net5.0\static-class.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\feyza\Desktop\PatikaWork\classes\static-class\obj\Debug\net5.0\static-class.AssemblyInfoInputs.cache
+C:\Users\feyza\Desktop\PatikaWork\classes\static-class\obj\Debug\net5.0\static-class.AssemblyInfo.cs
+C:\Users\feyza\Desktop\PatikaWork\classes\static-class\obj\Debug\net5.0\static-class.csproj.CoreCompileInputs.cache
+C:\Users\feyza\Desktop\PatikaWork\classes\static-class\obj\Debug\net5.0\static-class.dll
+C:\Users\feyza\Desktop\PatikaWork\classes\static-class\obj\Debug\net5.0\ref\static-class.dll
+C:\Users\feyza\Desktop\PatikaWork\classes\static-class\obj\Debug\net5.0\static-class.pdb
+C:\Users\feyza\Desktop\PatikaWork\classes\static-class\obj\Debug\net5.0\static-class.genruntimeconfig.cache

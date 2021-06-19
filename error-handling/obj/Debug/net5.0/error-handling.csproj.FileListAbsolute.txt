@@ -1,0 +1,16 @@
+C:\Users\feyza\Desktop\PatikaWork\error-handling\bin\Debug\net5.0\error-handling.exe
+C:\Users\feyza\Desktop\PatikaWork\error-handling\bin\Debug\net5.0\error-handling.deps.json
+C:\Users\feyza\Desktop\PatikaWork\error-handling\bin\Debug\net5.0\error-handling.runtimeconfig.json
+C:\Users\feyza\Desktop\PatikaWork\error-handling\bin\Debug\net5.0\error-handling.runtimeconfig.dev.json
+C:\Users\feyza\Desktop\PatikaWork\error-handling\bin\Debug\net5.0\error-handling.dll
+C:\Users\feyza\Desktop\PatikaWork\error-handling\bin\Debug\net5.0\ref\error-handling.dll
+C:\Users\feyza\Desktop\PatikaWork\error-handling\bin\Debug\net5.0\error-handling.pdb
+C:\Users\feyza\Desktop\PatikaWork\error-handling\obj\Debug\net5.0\error-handling.csprojAssemblyReference.cache
+C:\Users\feyza\Desktop\PatikaWork\error-handling\obj\Debug\net5.0\error-handling.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\feyza\Desktop\PatikaWork\error-handling\obj\Debug\net5.0\error-handling.AssemblyInfoInputs.cache
+C:\Users\feyza\Desktop\PatikaWork\error-handling\obj\Debug\net5.0\error-handling.AssemblyInfo.cs
+C:\Users\feyza\Desktop\PatikaWork\error-handling\obj\Debug\net5.0\error-handling.csproj.CoreCompileInputs.cache
+C:\Users\feyza\Desktop\PatikaWork\error-handling\obj\Debug\net5.0\error-handling.dll
+C:\Users\feyza\Desktop\PatikaWork\error-handling\obj\Debug\net5.0\ref\error-handling.dll
+C:\Users\feyza\Desktop\PatikaWork\error-handling\obj\Debug\net5.0\error-handling.pdb
+C:\Users\feyza\Desktop\PatikaWork\error-handling\obj\Debug\net5.0\error-handling.genruntimeconfig.cache

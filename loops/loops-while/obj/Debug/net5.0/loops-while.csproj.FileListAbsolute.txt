@@ -1,0 +1,16 @@
+C:\Users\feyza\Desktop\PatikaWork\loops\loops-while\bin\Debug\net5.0\loops-while.exe
+C:\Users\feyza\Desktop\PatikaWork\loops\loops-while\bin\Debug\net5.0\loops-while.deps.json
+C:\Users\feyza\Desktop\PatikaWork\loops\loops-while\bin\Debug\net5.0\loops-while.runtimeconfig.json
+C:\Users\feyza\Desktop\PatikaWork\loops\loops-while\bin\Debug\net5.0\loops-while.runtimeconfig.dev.json
+C:\Users\feyza\Desktop\PatikaWork\loops\loops-while\bin\Debug\net5.0\loops-while.dll
+C:\Users\feyza\Desktop\PatikaWork\loops\loops-while\bin\Debug\net5.0\ref\loops-while.dll
+C:\Users\feyza\Desktop\PatikaWork\loops\loops-while\bin\Debug\net5.0\loops-while.pdb
+C:\Users\feyza\Desktop\PatikaWork\loops\loops-while\obj\Debug\net5.0\loops-while.csprojAssemblyReference.cache
+C:\Users\feyza\Desktop\PatikaWork\loops\loops-while\obj\Debug\net5.0\loops-while.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\feyza\Desktop\PatikaWork\loops\loops-while\obj\Debug\net5.0\loops-while.AssemblyInfoInputs.cache
+C:\Users\feyza\Desktop\PatikaWork\loops\loops-while\obj\Debug\net5.0\loops-while.AssemblyInfo.cs
+C:\Users\feyza\Desktop\PatikaWork\loops\loops-while\obj\Debug\net5.0\loops-while.csproj.CoreCompileInputs.cache
+C:\Users\feyza\Desktop\PatikaWork\loops\loops-while\obj\Debug\net5.0\loops-while.dll
+C:\Users\feyza\Desktop\PatikaWork\loops\loops-while\obj\Debug\net5.0\ref\loops-while.dll
+C:\Users\feyza\Desktop\PatikaWork\loops\loops-while\obj\Debug\net5.0\loops-while.pdb
+C:\Users\feyza\Desktop\PatikaWork\loops\loops-while\obj\Debug\net5.0\loops-while.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\feyza\Desktop\PatikaWork\oop\interfaces\bin\Debug\net5.0\interfaces.exe
+C:\Users\feyza\Desktop\PatikaWork\oop\interfaces\bin\Debug\net5.0\interfaces.deps.json
+C:\Users\feyza\Desktop\PatikaWork\oop\interfaces\bin\Debug\net5.0\interfaces.runtimeconfig.json
+C:\Users\feyza\Desktop\PatikaWork\oop\interfaces\bin\Debug\net5.0\interfaces.runtimeconfig.dev.json
+C:\Users\feyza\Desktop\PatikaWork\oop\interfaces\bin\Debug\net5.0\interfaces.dll
+C:\Users\feyza\Desktop\PatikaWork\oop\interfaces\bin\Debug\net5.0\ref\interfaces.dll
+C:\Users\feyza\Desktop\PatikaWork\oop\interfaces\bin\Debug\net5.0\interfaces.pdb
+C:\Users\feyza\Desktop\PatikaWork\oop\interfaces\obj\Debug\net5.0\interfaces.csproj.AssemblyReference.cache
+C:\Users\feyza\Desktop\PatikaWork\oop\interfaces\obj\Debug\net5.0\interfaces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\feyza\Desktop\PatikaWork\oop\interfaces\obj\Debug\net5.0\interfaces.AssemblyInfoInputs.cache
+C:\Users\feyza\Desktop\PatikaWork\oop\interfaces\obj\Debug\net5.0\interfaces.AssemblyInfo.cs
+C:\Users\feyza\Desktop\PatikaWork\oop\interfaces\obj\Debug\net5.0\interfaces.csproj.CoreCompileInputs.cache
+C:\Users\feyza\Desktop\PatikaWork\oop\interfaces\obj\Debug\net5.0\interfaces.dll
+C:\Users\feyza\Desktop\PatikaWork\oop\interfaces\obj\Debug\net5.0\ref\interfaces.dll
+C:\Users\feyza\Desktop\PatikaWork\oop\interfaces\obj\Debug\net5.0\interfaces.pdb
+C:\Users\feyza\Desktop\PatikaWork\oop\interfaces\obj\Debug\net5.0\interfaces.genruntimeconfig.cache

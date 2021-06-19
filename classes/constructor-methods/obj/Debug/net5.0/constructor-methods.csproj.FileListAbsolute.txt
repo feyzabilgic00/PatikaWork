@@ -1,0 +1,16 @@
+C:\Users\feyza\Desktop\PatikaWork\classes\constructor-methods\bin\Debug\net5.0\constructor-methods.exe
+C:\Users\feyza\Desktop\PatikaWork\classes\constructor-methods\bin\Debug\net5.0\constructor-methods.deps.json
+C:\Users\feyza\Desktop\PatikaWork\classes\constructor-methods\bin\Debug\net5.0\constructor-methods.runtimeconfig.json
+C:\Users\feyza\Desktop\PatikaWork\classes\constructor-methods\bin\Debug\net5.0\constructor-methods.runtimeconfig.dev.json
+C:\Users\feyza\Desktop\PatikaWork\classes\constructor-methods\bin\Debug\net5.0\constructor-methods.dll
+C:\Users\feyza\Desktop\PatikaWork\classes\constructor-methods\bin\Debug\net5.0\ref\constructor-methods.dll
+C:\Users\feyza\Desktop\PatikaWork\classes\constructor-methods\bin\Debug\net5.0\constructor-methods.pdb
+C:\Users\feyza\Desktop\PatikaWork\classes\constructor-methods\obj\Debug\net5.0\constructor-methods.csprojAssemblyReference.cache
+C:\Users\feyza\Desktop\PatikaWork\classes\constructor-methods\obj\Debug\net5.0\constructor-methods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\feyza\Desktop\PatikaWork\classes\constructor-methods\obj\Debug\net5.0\constructor-methods.AssemblyInfoInputs.cache
+C:\Users\feyza\Desktop\PatikaWork\classes\constructor-methods\obj\Debug\net5.0\constructor-methods.AssemblyInfo.cs
+C:\Users\feyza\Desktop\PatikaWork\classes\constructor-methods\obj\Debug\net5.0\constructor-methods.csproj.CoreCompileInputs.cache
+C:\Users\feyza\Desktop\PatikaWork\classes\constructor-methods\obj\Debug\net5.0\constructor-methods.dll
+C:\Users\feyza\Desktop\PatikaWork\classes\constructor-methods\obj\Debug\net5.0\ref\constructor-methods.dll
+C:\Users\feyza\Desktop\PatikaWork\classes\constructor-methods\obj\Debug\net5.0\constructor-methods.pdb
+C:\Users\feyza\Desktop\PatikaWork\classes\constructor-methods\obj\Debug\net5.0\constructor-methods.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\feyza\Desktop\PatikaWork\classes\struct-scope\bin\Debug\net5.0\struct-scope.exe
+C:\Users\feyza\Desktop\PatikaWork\classes\struct-scope\bin\Debug\net5.0\struct-scope.deps.json
+C:\Users\feyza\Desktop\PatikaWork\classes\struct-scope\bin\Debug\net5.0\struct-scope.runtimeconfig.json
+C:\Users\feyza\Desktop\PatikaWork\classes\struct-scope\bin\Debug\net5.0\struct-scope.runtimeconfig.dev.json
+C:\Users\feyza\Desktop\PatikaWork\classes\struct-scope\bin\Debug\net5.0\struct-scope.dll
+C:\Users\feyza\Desktop\PatikaWork\classes\struct-scope\bin\Debug\net5.0\ref\struct-scope.dll
+C:\Users\feyza\Desktop\PatikaWork\classes\struct-scope\bin\Debug\net5.0\struct-scope.pdb
+C:\Users\feyza\Desktop\PatikaWork\classes\struct-scope\obj\Debug\net5.0\struct-scope.csproj.AssemblyReference.cache
+C:\Users\feyza\Desktop\PatikaWork\classes\struct-scope\obj\Debug\net5.0\struct-scope.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\feyza\Desktop\PatikaWork\classes\struct-scope\obj\Debug\net5.0\struct-scope.AssemblyInfoInputs.cache
+C:\Users\feyza\Desktop\PatikaWork\classes\struct-scope\obj\Debug\net5.0\struct-scope.AssemblyInfo.cs
+C:\Users\feyza\Desktop\PatikaWork\classes\struct-scope\obj\Debug\net5.0\struct-scope.csproj.CoreCompileInputs.cache
+C:\Users\feyza\Desktop\PatikaWork\classes\struct-scope\obj\Debug\net5.0\struct-scope.dll
+C:\Users\feyza\Desktop\PatikaWork\classes\struct-scope\obj\Debug\net5.0\ref\struct-scope.dll
+C:\Users\feyza\Desktop\PatikaWork\classes\struct-scope\obj\Debug\net5.0\struct-scope.pdb
+C:\Users\feyza\Desktop\PatikaWork\classes\struct-scope\obj\Debug\net5.0\struct-scope.genruntimeconfig.cache

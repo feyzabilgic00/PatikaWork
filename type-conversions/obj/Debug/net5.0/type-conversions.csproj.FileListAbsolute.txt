@@ -1,0 +1,16 @@
+C:\Users\feyza\Desktop\PatikaWork\type-conversions\bin\Debug\net5.0\type-conversions.exe
+C:\Users\feyza\Desktop\PatikaWork\type-conversions\bin\Debug\net5.0\type-conversions.deps.json
+C:\Users\feyza\Desktop\PatikaWork\type-conversions\bin\Debug\net5.0\type-conversions.runtimeconfig.json
+C:\Users\feyza\Desktop\PatikaWork\type-conversions\bin\Debug\net5.0\type-conversions.runtimeconfig.dev.json
+C:\Users\feyza\Desktop\PatikaWork\type-conversions\bin\Debug\net5.0\type-conversions.dll
+C:\Users\feyza\Desktop\PatikaWork\type-conversions\bin\Debug\net5.0\ref\type-conversions.dll
+C:\Users\feyza\Desktop\PatikaWork\type-conversions\bin\Debug\net5.0\type-conversions.pdb
+C:\Users\feyza\Desktop\PatikaWork\type-conversions\obj\Debug\net5.0\type-conversions.csprojAssemblyReference.cache
+C:\Users\feyza\Desktop\PatikaWork\type-conversions\obj\Debug\net5.0\type-conversions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\feyza\Desktop\PatikaWork\type-conversions\obj\Debug\net5.0\type-conversions.AssemblyInfoInputs.cache
+C:\Users\feyza\Desktop\PatikaWork\type-conversions\obj\Debug\net5.0\type-conversions.AssemblyInfo.cs
+C:\Users\feyza\Desktop\PatikaWork\type-conversions\obj\Debug\net5.0\type-conversions.csproj.CoreCompileInputs.cache
+C:\Users\feyza\Desktop\PatikaWork\type-conversions\obj\Debug\net5.0\type-conversions.dll
+C:\Users\feyza\Desktop\PatikaWork\type-conversions\obj\Debug\net5.0\ref\type-conversions.dll
+C:\Users\feyza\Desktop\PatikaWork\type-conversions\obj\Debug\net5.0\type-conversions.pdb
+C:\Users\feyza\Desktop\PatikaWork\type-conversions\obj\Debug\net5.0\type-conversions.genruntimeconfig.cache

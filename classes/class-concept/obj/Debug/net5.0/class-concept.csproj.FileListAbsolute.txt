@@ -1,0 +1,16 @@
+C:\Users\feyza\Desktop\PatikaWork\classes\class-concept\bin\Debug\net5.0\class-concept.exe
+C:\Users\feyza\Desktop\PatikaWork\classes\class-concept\bin\Debug\net5.0\class-concept.deps.json
+C:\Users\feyza\Desktop\PatikaWork\classes\class-concept\bin\Debug\net5.0\class-concept.runtimeconfig.json
+C:\Users\feyza\Desktop\PatikaWork\classes\class-concept\bin\Debug\net5.0\class-concept.runtimeconfig.dev.json
+C:\Users\feyza\Desktop\PatikaWork\classes\class-concept\bin\Debug\net5.0\class-concept.dll
+C:\Users\feyza\Desktop\PatikaWork\classes\class-concept\bin\Debug\net5.0\ref\class-concept.dll
+C:\Users\feyza\Desktop\PatikaWork\classes\class-concept\bin\Debug\net5.0\class-concept.pdb
+C:\Users\feyza\Desktop\PatikaWork\classes\class-concept\obj\Debug\net5.0\class-concept.csprojAssemblyReference.cache
+C:\Users\feyza\Desktop\PatikaWork\classes\class-concept\obj\Debug\net5.0\class-concept.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\feyza\Desktop\PatikaWork\classes\class-concept\obj\Debug\net5.0\class-concept.AssemblyInfoInputs.cache
+C:\Users\feyza\Desktop\PatikaWork\classes\class-concept\obj\Debug\net5.0\class-concept.AssemblyInfo.cs
+C:\Users\feyza\Desktop\PatikaWork\classes\class-concept\obj\Debug\net5.0\class-concept.csproj.CoreCompileInputs.cache
+C:\Users\feyza\Desktop\PatikaWork\classes\class-concept\obj\Debug\net5.0\class-concept.dll
+C:\Users\feyza\Desktop\PatikaWork\classes\class-concept\obj\Debug\net5.0\ref\class-concept.dll
+C:\Users\feyza\Desktop\PatikaWork\classes\class-concept\obj\Debug\net5.0\class-concept.pdb
+C:\Users\feyza\Desktop\PatikaWork\classes\class-concept\obj\Debug\net5.0\class-concept.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\feyza\Desktop\PatikaWork\switch-case\bin\Debug\net5.0\switch-case.exe
+C:\Users\feyza\Desktop\PatikaWork\switch-case\bin\Debug\net5.0\switch-case.deps.json
+C:\Users\feyza\Desktop\PatikaWork\switch-case\bin\Debug\net5.0\switch-case.runtimeconfig.json
+C:\Users\feyza\Desktop\PatikaWork\switch-case\bin\Debug\net5.0\switch-case.runtimeconfig.dev.json
+C:\Users\feyza\Desktop\PatikaWork\switch-case\bin\Debug\net5.0\switch-case.dll
+C:\Users\feyza\Desktop\PatikaWork\switch-case\bin\Debug\net5.0\ref\switch-case.dll
+C:\Users\feyza\Desktop\PatikaWork\switch-case\bin\Debug\net5.0\switch-case.pdb
+C:\Users\feyza\Desktop\PatikaWork\switch-case\obj\Debug\net5.0\switch-case.csprojAssemblyReference.cache
+C:\Users\feyza\Desktop\PatikaWork\switch-case\obj\Debug\net5.0\switch-case.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\feyza\Desktop\PatikaWork\switch-case\obj\Debug\net5.0\switch-case.AssemblyInfoInputs.cache
+C:\Users\feyza\Desktop\PatikaWork\switch-case\obj\Debug\net5.0\switch-case.AssemblyInfo.cs
+C:\Users\feyza\Desktop\PatikaWork\switch-case\obj\Debug\net5.0\switch-case.csproj.CoreCompileInputs.cache
+C:\Users\feyza\Desktop\PatikaWork\switch-case\obj\Debug\net5.0\switch-case.dll
+C:\Users\feyza\Desktop\PatikaWork\switch-case\obj\Debug\net5.0\ref\switch-case.dll
+C:\Users\feyza\Desktop\PatikaWork\switch-case\obj\Debug\net5.0\switch-case.pdb
+C:\Users\feyza\Desktop\PatikaWork\switch-case\obj\Debug\net5.0\switch-case.genruntimeconfig.cache
